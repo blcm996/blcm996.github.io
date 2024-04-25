@@ -217,3 +217,19 @@ This **word** is bold. This <span style="font-style: italic;">word</span> is ita
 The rendered output looks like this:
 
 This **word** is bold. This <span style="font-style: italic;">word</span> is italic.
+
+<script src="https://giscus.app/client.js"
+        data-repo="blcm996/blcm996.github.io"
+        data-repo-id="R_kgDOLt8gsg"
+        data-category="Q&A"
+        data-category-id="DIC_kwDOLt8gss4Ce5jy"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="dark_dimmed"
+        data-lang="zh-CN"
+        crossorigin="anonymous"
+        async>
+</script>
